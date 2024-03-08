@@ -12,8 +12,8 @@ This repository contains the questions and solutions of the C Programming Proble
 5. Leaving Dev C++
 
 ### 1. Starting Dev-C++
-    * Dev-C++ is a free integrated development environment (IDE) distributed under the GNU General Public License. You can download the 4.9 version of Dev-C++ program from the link of [http://www.bloodshed.net].
-    * After installing program, Select Start+Programs+Bloodshed Dev-C++ + Dev-C++.
+   * Dev-C++ is a free integrated development environment (IDE) distributed under the GNU General Public License. You can download the 4.9 version of Dev-C++ program from the link of [http://www.bloodshed.net].
+   * After installing program, Select Start+Programs+Bloodshed Dev-C++ + Dev-C++.
 
 ### 2. Entering and editing a C program
-    * From the main menu, select File+New+Source File to write your source code as seen in the following screen shot.
+   * From the main menu, select File+New+Source File to write your source code as seen in the following screen shot.
